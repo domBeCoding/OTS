@@ -1,9 +1,11 @@
 #BlueJ class context
 comment0.target=FileWriter
-comment1.params=filePath\ elementType
-comment1.target=FileWriter(java.lang.String,\ java.lang.Class)
-comment2.params=appendList
-comment2.target=void\ append(java.util.List)
-comment3.params=list
-comment3.target=void\ overwrite(java.util.List)
-numComments=4
+comment1.params=elementType
+comment1.target=FileWriter(java.lang.Class)
+comment2.params=elementType
+comment2.target=void\ setFilePathByType(java.lang.Class)
+comment3.params=appendList
+comment3.target=void\ append(java.util.List)
+comment4.params=list
+comment4.target=void\ overwrite(java.util.List)
+numComments=5

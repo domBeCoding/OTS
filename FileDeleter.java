@@ -1,5 +1,4 @@
-
-
+ 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.CollectionType;
@@ -16,11 +15,23 @@ public class FileDeleter<T> {
     protected String filePath;
     protected CollectionType listType;
 
-    public FileDeleter(String filePath, Class<T> elementType) {
+    public FileDeleter(Class<T> elementType) {
+        setFilePathByType(elementType);
         //Overcome generic type erasure.
         TypeFactory typeFactory = mapper.getTypeFactory();
         listType = typeFactory.constructCollectionType(List.class, elementType);
-        this.filePath = filePath;
+    }
+
+    private void setFilePathByType(Class<T> elementType) {
+        if (elementType.equals(Customer.class)) {
+            filePath = "/Users/DPU09/Documents/University/online-ticketing-service/src/main/resources/customer.json";
+        } else if (elementType.equals(TicketAgent.class)) {
+            filePath = "/Users/DPU09/Documents/University/online-ticketing-service/src/main/resources/ticketAgentManager.json";
+        } else if (elementType.equals(VenueManager.class)) {
+            filePath = "/Users/DPU09/Documents/University/online-ticketing-service/src/main/resources/venueManager.json";
+        } else if (elementType.equals(Movie.class)) {
+            filePath = "/Users/DPU09/Documents/University/online-ticketing-service/src/main/resources/movies.json";
+        }
     }
 
     public void remove(List<T> removeList) {

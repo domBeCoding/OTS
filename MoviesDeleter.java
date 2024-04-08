@@ -1,3 +1,5 @@
+
+
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
@@ -6,7 +8,7 @@ public class MoviesDeleter extends FileDeleter<Movie> {
 
 
     public MoviesDeleter() {
-        super("/Users/DPU09/Documents/University/online-ticketing-service/src/main/resources/movies.json", Movie.class);
+        super(Movie.class);
     }
 
     public void removeByName(String movieName) {

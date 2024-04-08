@@ -1,11 +1,9 @@
-
-
 import java.io.File;
 import java.io.IOException;
 
 public class CustomerWriter extends FileWriter<Customer> {
     public CustomerWriter() {
-        super("/Users/DPU09/Documents/University/online-ticketing-service/src/main/resources/customer.json", Customer.class);
+        super(Customer.class);
     }
 
     public void addTicket(String userId, Ticket ticket) {
