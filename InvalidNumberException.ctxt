@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InvalidNumberException
+comment1.params=message
+comment1.target=InvalidNumberException(java.lang.String)
+numComments=2

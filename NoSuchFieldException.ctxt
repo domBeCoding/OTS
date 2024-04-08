@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NoSuchFieldException
+comment1.params=message
+comment1.target=NoSuchFieldException(java.lang.String)
+numComments=2

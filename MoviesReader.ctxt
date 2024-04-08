@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MoviesReader
+comment1.params=
+comment1.target=MoviesReader()
+comment2.params=movieName
+comment2.target=Movie\ get(java.lang.String)
+numComments=3

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MovieService
+comment1.params=
+comment1.target=MovieService()
+comment10.params=movie\ date\ time
+comment10.target=void\ checkMovieExistsForDateAndTime(Movie,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ getMovies()
+comment3.params=movieName
+comment3.target=Movie\ getMovieByName(java.lang.String)
+comment4.params=movies
+comment4.target=void\ addMovies(java.util.List)
+comment5.params=movieName\ field\ value
+comment5.target=void\ editMovie(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ eraseAllMovies()
+comment7.params=movies
+comment7.target=void\ eraseMovies(java.util.List)
+comment8.params=movieName
+comment8.target=void\ eraseMovieByName(java.lang.String)
+comment9.params=movieName\ newBooking
+comment9.target=void\ addBooking(java.lang.String,\ Booking)
+numComments=11

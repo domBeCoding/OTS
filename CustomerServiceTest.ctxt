@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CustomerServiceTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ buyTicketForExistingUserIdSuccessful()
+comment3.params=
+comment3.target=void\ buyTicketForNonExistingUserIdSuccessful_throwsException()
+comment4.params=
+comment4.target=void\ throwsException_whenCardNumberIncorrectForExistingUser()
+comment5.params=
+comment5.target=void\ throwsException_whenCardPinIncorrectForExistingUser()
+comment6.params=
+comment6.target=void\ throwsExceptionWhenBuyTicketForNonExistingMovie()
+comment7.params=
+comment7.target=void\ addTicketForExistingUserIdSuccessful()
+comment8.params=
+comment8.target=void\ addTicketForNonExistingUserId_throwsExpcetion()
+comment9.params=
+comment9.target=void\ throwsExceptionWhenAddTicketForNonExistingMovie()
+numComments=10

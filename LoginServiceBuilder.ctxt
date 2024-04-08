@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=LoginServiceBuilder
+comment1.params=userType
+comment1.target=LoginService\ build(java.lang.String)
+numComments=2

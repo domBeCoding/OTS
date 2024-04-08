@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CustomerService
+comment1.params=customer
+comment1.target=CustomerService(Customer)
+comment2.params=movieName\ newBooking\ transaction
+comment2.target=void\ buyTicket(java.lang.String,\ Booking,\ Transaction)
+comment3.params=movieName\ newBooking
+comment3.target=void\ addTicket(java.lang.String,\ Booking)
+comment4.params=userId
+comment4.target=java.util.List\ getTickets(java.lang.String)
+comment5.params=movie
+comment5.target=Movie\ getMovie(java.lang.String)
+comment6.params=
+comment6.target=java.util.List\ getAllMovies()
+comment7.params=movie\ time\ date\ seats
+comment7.target=Ticket\ createTicket(Movie,\ java.lang.String,\ java.lang.String,\ java.util.List)
+numComments=8

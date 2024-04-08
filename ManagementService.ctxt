@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ManagementService
+comment1.params=
+comment1.target=ManagementService()
+comment2.params=
+comment2.target=java.util.List\ getCustomers()
+comment3.params=customers
+comment3.target=void\ addCustomers(java.util.List)
+comment4.params=customers
+comment4.target=void\ removeCustomers(java.util.List)
+comment5.params=
+comment5.target=void\ removeAll()
+comment6.params=userId
+comment6.target=Customer\ getCustomerByUserId(java.lang.String)
+numComments=7

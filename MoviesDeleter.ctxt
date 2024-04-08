@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MoviesDeleter
+comment1.params=
+comment1.target=MoviesDeleter()
+comment2.params=movieName
+comment2.target=void\ removeByName(java.lang.String)
+comment3.params=removeList
+comment3.target=void\ remove(java.util.List)
+numComments=4

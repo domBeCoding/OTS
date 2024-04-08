@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=DeleteMovieValidator
+comment1.params=movieName
+comment1.target=boolean\ validate(java.lang.String)
+numComments=2

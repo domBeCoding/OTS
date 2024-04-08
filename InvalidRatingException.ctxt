@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InvalidRatingException
+comment1.params=message
+comment1.target=InvalidRatingException(java.lang.String)
+numComments=2

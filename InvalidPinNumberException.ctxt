@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InvalidPinNumberException
+comment1.params=message
+comment1.target=InvalidPinNumberException(java.lang.String)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=InvalidPriceException
+comment1.params=message
+comment1.target=InvalidPriceException(java.lang.String)
+numComments=2

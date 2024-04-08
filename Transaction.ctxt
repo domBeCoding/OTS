@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=totalCost\ cardNumber\ cardPin
+comment1.target=Transaction(java.lang.Double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.Double\ getTotalCost()
+comment3.params=
+comment3.target=java.lang.String\ getCardNumber()
+comment4.params=
+comment4.target=java.lang.String\ getCardPin()
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=date\ time\ seats
+comment1.target=Booking(java.lang.String,\ java.lang.String,\ java.util.List)
+comment2.params=
+comment2.target=Booking()
+comment3.params=
+comment3.target=java.lang.String\ getDate()
+comment4.params=
+comment4.target=java.lang.String\ getTime()
+comment5.params=
+comment5.target=java.util.List\ getSeats()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=object
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=int\ hashCode()
+numComments=9

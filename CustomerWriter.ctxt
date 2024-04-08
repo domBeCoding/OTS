@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CustomerWriter
+comment1.params=
+comment1.target=CustomerWriter()
+comment2.params=userId\ ticket
+comment2.target=void\ addTicket(java.lang.String,\ Ticket)
+numComments=3

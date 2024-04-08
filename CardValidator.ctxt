@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CardValidator
+comment1.params=cardNumber\ pin
+comment1.target=boolean\ validate(java.lang.String,\ java.lang.String)
+comment2.params=cardNumber
+comment2.target=boolean\ validateCardNumber(java.lang.String)
+comment3.params=pin
+comment3.target=boolean\ validatePin(java.lang.String)
+numComments=4

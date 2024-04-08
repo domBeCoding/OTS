@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LoginService
+comment1.params=type
+comment1.target=LoginService(java.lang.Class)
+comment2.params=credentials
+comment2.target=boolean\ login(Credentials)
+comment3.params=credentials
+comment3.target=Account\ getAccountByCredentials(Credentials)
+comment4.params=
+comment4.target=Account\ getAccount()
+numComments=5

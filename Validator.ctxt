@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Validator
+comment1.params=times
+comment1.target=boolean\ validateTimes(java.util.List)
+comment2.params=inputDate
+comment2.target=boolean\ validateDate(java.lang.String)
+comment3.params=string
+comment3.target=boolean\ validateStringField(java.lang.String)
+comment4.params=length
+comment4.target=boolean\ validateNumber(java.lang.String)
+comment5.params=rating
+comment5.target=boolean\ validateRating(java.lang.String)
+comment6.params=rating
+comment6.target=boolean\ validatePrice(java.lang.String)
+numComments=7

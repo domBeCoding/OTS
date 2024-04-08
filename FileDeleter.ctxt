@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileDeleter
+comment1.params=filePath\ elementType
+comment1.target=FileDeleter(java.lang.String,\ java.lang.Class)
+comment2.params=removeList
+comment2.target=void\ remove(java.util.List)
+numComments=3

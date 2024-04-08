@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CinemaService
+comment1.params=numRows\ numSeatsPerRow
+comment1.target=CinemaService(int,\ int)
+comment2.params=
+comment2.target=void\ displaySeats()
+comment3.params=seat
+comment3.target=void\ bookSeat(java.lang.String)
+comment4.params=columnLabel
+comment4.target=int\ columnLabelToSeatNumber(java.lang.String)
+comment5.params=movie\ date\ time
+comment5.target=void\ populateSeats(Movie,\ java.lang.String,\ java.lang.String)
+comment6.params=movie\ booking
+comment6.target=void\ checkSeatAvailability(Movie,\ Booking)
+numComments=7

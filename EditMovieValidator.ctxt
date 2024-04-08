@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EditMovieValidator
+comment1.params=movieName\ field\ value
+comment1.target=boolean\ validate(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

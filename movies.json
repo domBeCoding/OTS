@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "name": "Dune",
+      "length" : 240,
+      "rating" : 5
+    },
+    {
+      "name": "Percy Jackson",
+      "length" : 60,
+      "rating" : 3
+    },
+    {
+      "name": "Avatar",
+      "length" : 60,
+      "rating" : 4
+    }
+  ]
+}

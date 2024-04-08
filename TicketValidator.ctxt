@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TicketValidator
+comment1.params=movieName\ time\ date
+comment1.target=boolean\ validateFields(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=time
+comment2.target=boolean\ validateTime(java.lang.String)
+numComments=3

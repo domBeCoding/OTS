@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ManagementServiceTest
+comment1.params=
+comment1.target=void\ setup()
+comment2.params=
+comment2.target=void\ addCustomersSuccessfully()
+comment3.params=
+comment3.target=void\ successfullyDeleteAllCustomers()
+comment4.params=
+comment4.target=void\ deleteCustomerSuccessfully()
+comment5.params=
+comment5.target=void\ throwsExceptionsOnDeletionWhenCustomerNotPresent()
+comment6.params=
+comment6.target=void\ throwExceptionIfAllAddedCustomersAlreadyExists()
+comment7.params=
+comment7.target=void\ getCustomersByUserId()
+numComments=8

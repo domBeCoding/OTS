@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LoginServiceTest
+comment1.params=
+comment1.target=void\ setup()
+comment2.params=
+comment2.target=void\ onIncorrectCustomerCredentialsReturnFalse()
+comment3.params=
+comment3.target=void\ onCorrectCustomerCredentialsReturnTrue()
+comment4.params=
+comment4.target=void\ onCorrectVenueManagerCredentialsReturnTrue()
+comment5.params=
+comment5.target=void\ onIncorrectVenueManagerCredentialsReturnFalse()
+comment6.params=
+comment6.target=void\ onCorrectTicketAgentCredentialsReturnTrue()
+comment7.params=
+comment7.target=void\ onIncorrectTicketAgentCredentialsReturnFalse()
+numComments=8
